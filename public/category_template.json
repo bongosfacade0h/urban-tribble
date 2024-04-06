@@ -18,5 +18,10 @@
         "title": "Karikatur",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/image/420490112_376240751691482_8911759167330561257_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/data.json"
+    },
+    {
+        "title": "Family",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/image/430182859_122131085006127517_428999991577513181_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/data.json"
     }
 ]
