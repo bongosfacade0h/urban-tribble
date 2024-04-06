@@ -6,17 +6,17 @@
     },
     {
         "title": "Idul Fitri",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/idulfitri/image/434385578_383387621257105_5824721010420605591_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/idulfitri/data.json"
     },
     {
         "title": "Kartini",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/kartini/image/425572804_10226276234195449_3721941717410726460_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/kartini/data.json"
     },
     {
         "title": "Karikatur",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/image/420490112_376240751691482_8911759167330561257_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/data.json"
     }
 ]
