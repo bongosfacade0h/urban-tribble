@@ -28,5 +28,10 @@
         "title": "Family",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/image/430182859_122131085006127517_428999991577513181_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/data.json"
+    },
+    {
+        "title": "Indonesian traditional",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/indonesia_tradisional/image/435111691_2166711800334130_9053133390508105249_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/indonesia_tradisional/data.json"
     }
 ]
