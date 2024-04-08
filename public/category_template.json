@@ -20,6 +20,11 @@
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/data.json"
     },
     {
+        "title": "Wedding",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/wedding/image/425712383_122125962374137213_1687467517543867269_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/wedding/data.json"
+    },
+    {
         "title": "Family",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/image/430182859_122131085006127517_428999991577513181_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/data.json"
