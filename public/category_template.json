@@ -33,5 +33,10 @@
         "title": "Indonesian traditional",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/indonesia_tradisional/image/435111691_2166711800334130_9053133390508105249_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/indonesia_tradisional/data.json"
+    },
+    {
+        "title": "Hijab",
+        "image": "https://raw.githubusercontent.com/drifthazingsf/7575773871701946350517/main/public/7720090731712580147335.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/hijab/data.json"
     }
 ]
