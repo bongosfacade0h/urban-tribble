@@ -1,13 +1,13 @@
 [
     {
-        "title": "Ramadan",
-        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/ramadan/image/431928835_282476668210024_4092509193617500943_n.jpg",
-        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/ramadan/data.json"
-    },
-    {
         "title": "Idul Fitri",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/idulfitri/image/434385578_383387621257105_5824721010420605591_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/idulfitri/data.json"
+    },
+    {
+        "title": "Ramadan",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/ramadan/image/431928835_282476668210024_4092509193617500943_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/ramadan/data.json"
     },
     {
         "title": "Couple",
