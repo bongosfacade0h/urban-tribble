@@ -38,5 +38,10 @@
         "title": "Hijab",
         "image": "https://raw.githubusercontent.com/drifthazingsf/7575773871701946350517/main/public/7720090731712580147335.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/hijab/data.json"
+    },
+    {
+        "title": "Princes",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/princes/image/432925183_440659008351200_4091337026623174260_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/princes/data.json"
     }
 ]
