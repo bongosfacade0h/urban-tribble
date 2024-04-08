@@ -53,5 +53,10 @@
         "title": "Great Wall of China",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/tembok_china/image/431548446_2770790409750168_8199106689014769809_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/tembok_china/data.json"
+    },
+    {
+        "title": "Mesir",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/mesir/image/430307707_122133438866137213_2100783796018597323_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/mesir/data.json"
     }
 ]
