@@ -1,5 +1,10 @@
 [
     {
+        "title": "Kartini",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/kartini/image/425572804_10226276234195449_3721941717410726460_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/kartini/data.json"
+    },
+    {
         "title": "Idul Fitri",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/idulfitri/image/434385578_383387621257105_5824721010420605591_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/idulfitri/data.json"
