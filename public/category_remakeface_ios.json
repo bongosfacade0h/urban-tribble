@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Couple",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/couple/image/435286534_25466055796318715_6717006748608558433_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/couple/data.json"
+    },
+    {
+        "title": "Caricature",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/image/420490112_376240751691482_8911759167330561257_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/data.json"
+    },
+    {
+        "title": "Wedding",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/wedding/image/425526845_122125962686137213_1488363210161643146_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/wedding/data.json"
+    },
+    {
+        "title": "Family",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/image/434925680_122139640046127517_4302348229117836528_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/data.json"
+    },
+    {
+        "title": "Princes",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/princes/image/432953079_440690438348057_8878388104152156569_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/princes/data.json"
+    },
+    {
+        "title": "Paris",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/paris/image/435336928_2728585937307530_6882462656097929016_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/paris/data.json"
+    },
+    {
+        "title": "Great Wall of China",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/tembok_china/image/427990145_122128396868137213_2849879791945043256_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/tembok_china/data.json"
+    },
+    {
+        "title": "Mesir",
+        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/mesir/image/430254389_122133438950137213_1785214983943216477_n.jpg",
+        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/mesir/data.json"
+    }
+]
