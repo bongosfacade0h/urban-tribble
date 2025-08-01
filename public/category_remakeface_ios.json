@@ -1,23 +1,8 @@
 [
     {
-        "title": "Couple",
-        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/couple/image/435286534_25466055796318715_6717006748608558433_n.jpg",
-        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/couple/data.json"
-    },
-    {
         "title": "Caricature",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/image/420443588_376240785024812_4036048815416617736_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/data.json"
-    },
-    {
-        "title": "Wedding",
-        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/wedding/image/425526845_122125962686137213_1488363210161643146_n.jpg",
-        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/wedding/data.json"
-    },
-    {
-        "title": "Family",
-        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/image/434925680_122139640046127517_4302348229117836528_n.jpg",
-        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/family/data.json"
     },
     {
         "title": "Princes",
