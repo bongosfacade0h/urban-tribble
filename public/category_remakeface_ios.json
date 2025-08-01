@@ -1,10 +1,5 @@
 [
     {
-        "title": "Caricature",
-        "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/image/420443588_376240785024812_4036048815416617736_n.jpg",
-        "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/karikatur/data.json"
-    },
-    {
         "title": "Princes",
         "image": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/princes/image/432953079_440690438348057_8878388104152156569_n.jpg",
         "urlData": "https://raw.githubusercontent.com/bongosfacade0h/urban-tribble/main/public/princes/data.json"
